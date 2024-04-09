@@ -1,0 +1,4 @@
+**/stories/**/*.tsx
+**/stories/*.tsx
+**/stories/*.ts
+**/stories/**/*.ts{,x}
